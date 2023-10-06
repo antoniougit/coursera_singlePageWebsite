@@ -1,1 +1,21 @@
 # coursera_singlePageWebsite
+
+This project will be graded by your peers who are also completing the course during the same session. This project is worth 20 marks of your total grade, and is distributed as follows:
+
+The styled name appears on the top-left of the page – 3 points
+
+The navigation bar has 4 options (About, Project details, Skills, Recommendations). On mouse hover, the font and text styling change. – 3 points
+
+The "About Me" section has a unique profile image, name and text, reflecting a summary of learners profile – 3 points
+
+The skills added by the learner appear with logo & text in the specified format.  – 3 points
+
+The 3 Projects are different from the default ones given in the sample code and in the specified format. – 2 points
+
+The 3 recommendations are different from the default ones given in the sample code and in the specified format. -  2 points
+
+New recommendations get added to the existing list of recommendations. – 1 point
+
+The Home icon appear as specified. – 1 point
+
+Upon submitting a recommendation, a pop-up message with a confirmation message appears. – 2 points
