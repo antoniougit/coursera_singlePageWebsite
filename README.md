@@ -1,5 +1,7 @@
 # coursera_singlePageWebsite
 
+## Introduction to Web Development with HTML, CSS, JavaScript - Peer-graded Assignment: Final Project
+
 This project will be graded by your peers who are also completing the course during the same session. This project is worth 20 marks of your total grade, and is distributed as follows:
 
 The styled name appears on the top-left of the page – 3 points
